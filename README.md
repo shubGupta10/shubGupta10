@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Gupta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="shubgupta1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubgupta10&label=Profile%20views&color=0e75b6&style=flat" alt="shubgupta1" /> </p>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg"
 
 <p align="left"> <a href="https://twitter.com/i_m_shubham45" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_shubham45?logo=twitter&style=for-the-badge" alt="i_m_shubham45" /></a> </p>
