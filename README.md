@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubhamkumargupta1012@gmail.com**
 
-- 💻 [Coding Ninjas]([https://codingninjas.com/users/shubham_10](https://www.codingninjas.com/studio/profile/shubham_10))
+- 💻 [Coding Ninjas](https://www.codingninjas.com/studio/profile/shubham_10)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
