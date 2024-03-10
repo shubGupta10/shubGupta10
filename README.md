@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-10.vercel.app/](https://my-portfolio-10.vercel.app/)
+- 👨‍💻 Here you can see my Portfolio [https://my-portfolio-10.vercel.app/](https://my-portfolio-10.vercel.app/)
 
 - 📫 How to reach me **shubhamkumargupta1012@gmail.com**
 
