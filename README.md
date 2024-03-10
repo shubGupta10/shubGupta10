@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **shubhamkumargupta1012@gmail.com**
 
+- 💻 [Coding Ninjas](https://codingninjas.com/users/<shubham_10>) - Level: <your-level> (or XP: <your-experience-points>)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_m_shubham45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_m_shubham45" height="30" width="40" /></a>
