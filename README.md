@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <Strong>EduHub WebApp</Strong> 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently exploring **Web development**
 
 - 👨‍💻 Here you can see my Portfolio [https://my-portfolio-10.vercel.app/](https://my-portfolio-10.vercel.app/)
 
