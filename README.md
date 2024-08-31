@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubhamkumargupta1012@gmail.com**
 
-- 💻 [Leetcode](https://leetcode.com/u/Shubham10121012/)
+- 💻 Checkout my Leetcode profile [Leetcode](https://leetcode.com/u/Shubham10121012/)
 
   <br/>
 
