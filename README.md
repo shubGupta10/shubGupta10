@@ -15,7 +15,6 @@
 - 💻 [Leetcode](https://leetcode.com/u/Shubham10121012/)
 
   <br/>
-  <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +23,6 @@
 <a href="https://instagram.com/i_m_shubham10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_shubham10" height="30" width="40" /></a>
 <a href="https://discord.gg/shubham_1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubham_1020" height="30" width="40" /></a>
 </p>
-<br/>
 <br/>
 
 # 💻 Tech Stack:
