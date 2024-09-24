@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring **Full Stack development**
 
-- 👨‍💻 Here you can see my Portfolio [https://my-portfolio-10.vercel.app/](https://my-portfolio-10.vercel.app/)
+- 👨‍💻 Here you can see my Portfolio [(https://shubgupta.vercel.app/)]
 
 - 📫 How to reach me **shubhamkumargupta1012@gmail.com**
 
