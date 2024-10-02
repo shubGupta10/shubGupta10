@@ -32,13 +32,7 @@
 <br/>
 <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShubGupta10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShubGupta10&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShubGupta10&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/> <br/>
