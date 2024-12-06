@@ -5,7 +5,7 @@
 <br/>
 <p align="left"> <a href="https://twitter.com/i_m_shubham45" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_shubham45?logo=twitter&style=for-the-badge" alt="i_m_shubham45" /></a> </p>
 
-- 🔭 I’m currently learning <Strong>Next JS</Strong> 
+- 🔭 I’m currently wokring in <Strong>Next JS</Strong> 
 
 - 🌱 I’m currently exploring **Full Stack development**
 
